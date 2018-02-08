@@ -1,0 +1,75 @@
+
+#bs-example-navbar-collapse-1 {
+    float: right;
+}
+
+.navbar-nav li {
+    padding-left: 3em;
+}
+
+#navbarNav {
+    direction:rtl;
+    text-align:justify;
+    background-color: white;
+}
+
+#my-namebrandcolor {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 1em;
+    font-weight: 900;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.navbar {
+    padding-top:0;
+    padding-bottom:0;
+    margin-bottom:25px;
+
+}
+
+#my-image {
+    float:left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+body {
+    background: #eeeeee
+}
+
+.container-fluid {
+    background: white;
+}
+
+.whitebg {
+    background: white;
+}
+
+h3 {
+    padding-top: 1em;
+    padding-left: .5em;
+    padding-bottom: 1em;
+    padding-right: .5em;
+    color: #4aaaa5;
+}
+
+.sm-resize {
+    font-size: 300%;
+   margin: 10px;
+}
+
+.sm-icons {
+    text-align: center;
+}
+
+.my-footer {
+    padding: 1em 0;
+    margin-top: 1em;
+    text-align: center;
+}
+
+hr {
+    margin-top:0;
+}
