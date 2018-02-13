@@ -73,3 +73,24 @@ h3 {
 hr {
     margin-top:0;
 }
+
+.portfolio-image {
+    width: 250px;
+    padding: 1em;  
+}
+
+.img-text {
+    position: absolute;
+    bottom: 30px;
+    text-align: center;
+    background: #4aaaa5;
+    color: white;
+    margin-left: 1em;
+    padding-left: 1em;
+    width: 218px;
+}
+
+.img-con {
+    position: relative;
+    float: left;
+}
